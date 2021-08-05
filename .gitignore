@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Technovert.Azure.Storage.Blobs.BackupBulkBlobs/DesignTimeBuild
+/.vs/Technovert.Azure.Storage.Blobs.BackupBulkBlobs/v17/.suo
+/Technovert.Azure.Storage.Blobs.BackupBulkBlobs/obj
+/Technovert.Azure.Storage.Blobs.BackupBulkBlobs/bin

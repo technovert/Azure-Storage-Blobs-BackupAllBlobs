@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Technovert.Azure.Storage.Blobs.BackupBulkBlobs", "Technovert.Azure.Storage.Blobs.BackupBulkBlobs\Technovert.Azure.Storage.Blobs.BackupBulkBlobs.csproj", "{D1C54100-26EE-485B-8826-F7F757B64BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C54100-26EE-485B-8826-F7F757B64BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C54100-26EE-485B-8826-F7F757B64BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C54100-26EE-485B-8826-F7F757B64BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C54100-26EE-485B-8826-F7F757B64BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A01C87B3-2FF7-4501-B681-B589D1BB2120}
+	EndGlobalSection
+EndGlobal
